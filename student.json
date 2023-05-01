@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Bindharan",
+        "surname": "s",
+        "email": "bindharan@gmail.com",
+        "mentorId": "Guvi1010"
+    },
+    {
+        "name": "aravind",
+        "surname": "Kumar",
+        "email": "aravind@gmail.com",
+        "mentorId": "Guvi1010"
+    },
+    {
+        "name": "Prathamesh",
+        "surname": "Sarode",
+        "email": "prathu@gmail.com",
+        "mentorId": "Guvi1009"
+    },
+    {
+        "name": "Deepak",
+        "surname": "Kumar",
+        "email": "deepak@gmail.com",
+        "mentorId": "Guvi1009"
+    },
+    {
+        "name": "Chetan",
+        "surname": "Gudagamanal",
+        "email": "chetan@gmail.com",
+        "mentorId": "Guvi1008"
+    },
+    {
+        "name": "Adib",
+        "surname": "Syed",
+        "email": "adib@gmail.com",
+        "mentorId": "Guvi1007"
+    },
+    {
+        "name": "Chinmay",
+        "surname": "Surve",
+        "email": "chin@gmail.com",
+        "mentorId": "Guvi1006"
+    },
+    {
+        "name": "Gopal",
+        "surname": "S",
+        "email": "gopal@gmail.com",
+        "mentorId": "Guvi1001"
+    },
+    {
+        "name": "Nagaveni",
+        "surname": "T S",
+        "email": "naga@gmail.com",
+        "mentorId": "Guvi1001"
+    },
+    {
+        "name": "Eswar",
+        "surname": "Chandar",
+        "email": "eswar@gmail.com",
+        "password": "eswarGuvi@123",
+        "mentorId": "Guvi1002"
+    },
+    {
+        "name": "Suparnan",
+        "surname": "supa",
+        "email": "suparnan@gmail.com",
+        "mentorId": "Guvi1002"
+    },
+    {
+        "name": "Harish",
+        "surname": "Kumar",
+        "email": "harish@gmail.com",
+        "mentorId": "Guvi1004"
+    },
+    {
+        "name": "Armaan",
+        "surname": "K",
+        "email": "armaan@gmail.com",
+        "mentorId": "Guvi1004"
+    },
+    {
+        "name": "Subash",
+        "surname": "Chandar",
+        "email": "subash@gmail.com",
+        "password": "subashGuvi@123",
+        "mentorId": "Guvi1005"
+    },
+    {
+        "name": "Mohammed Ikram",
+        "surname": "Ikram",
+        "email": "ikram@gmail.com",
+        "mentorId": "Guvi1004"
+    },
+    {
+        "name": "Sai",
+        "surname": "Anurag",
+        "email": "anurag@gmail.com",
+        "mentorId": "Guvi1003"
+    },
+    {
+        "name": "Sabarni",
+        "surname": "Pradhan",
+        "email": "sabarni@gmail.com",
+        "mentorId": "Guvi1007"
+    },
+    {
+        "name": "Ashwathy",
+        "surname": "S",
+        "email": "aswathy@gmail.com",
+        "mentorId": "Guvi1008"
+    },
+    {
+        "name": "Sharath",
+        "surname": "V",
+        "email": "sharath@gmail.com",
+        "mentorId": "Guvi1005"
+    },
+    {
+        "name": "Virat",
+        "surname": "Patel",
+        "email": "virat@gmail.com",
+        "mentorId": "Guvi1006"
+    }
+]
